@@ -35,7 +35,7 @@
 	2. 포커스 앞/뒤 이동
 		command + [,]  
 	3. 멀티 포커스  
-		Option+ Option  
+		Option+ Option(누른 상태에서) + ↓  
 	4. 오류난곳으로 자동 포커스  
 		F2  
 - 검색 텍스트  
