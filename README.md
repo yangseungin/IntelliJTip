@@ -64,7 +64,30 @@
 		Command + N  
 	5. Override 메소드 자동완성  
 		Ctrl + I  
-
+- Live template
+	1. 현재 위치에서 사용가능한 라이브 템플릿 보기  
+		Command + j    
+	2. 나만의 라이브 템플릿 등록하기(등록할예정)  
+	
+- 리팩토링 - Extract  
+	1. 변수 추출하기  
+		Option + Command + v  
+	2. 파라미터 추출하기  
+		Option + Command + p  
+	3. 메소드 추출하기  
+		Option + Command + m  
+ 	4. InnerClass 추출하기  
+		F6  
+	5. 변수들 한번에 변경  
+		Shift + F6  
+	6. 타입 변경  
+		Command + Shift + F6  
+	7. 사용하지 않는 Import 정리  
+		Ctrl + Option + o  
+	8. 자동으로 Import정리하기  
+		(find action에서 optimize import 검색 후 Auto import를 On으로 변경)  
+	9. 자동 줄맞춤  
+		Command + Option + l  
 
 
     
@@ -78,3 +101,4 @@
 ### 코드 템플릿
 메인 메소드: psvm  
 System.out.println(): sout
+if문 자동 생성(상단의변수활용) : ifn
