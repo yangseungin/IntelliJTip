@@ -88,6 +88,26 @@
 		(find action에서 optimize import 검색 후 Auto import를 On으로 변경)  
 	9. 자동 줄맞춤  
 		Command + Option + l  
+		
+- 디버깅  
+![디버그이미지](https://github.com/yangseungin/intellijTip/blob/master/images/%EB%94%94%EB%B2%84%EA%B9%85.png)
+    
+	1. 현재위치의 메소드에서 Debug모드 실행  
+		Ctrl + Shift + D  
+	2. 이전 실행 메소드 Debug모드 실행  
+		Ctrl + D  
+	3. Resume(다음 브레이크포인트로 이동  
+		Command + Option +R  
+	4. Step Over(현재 브레이크에서 다음 한줄로 이동  
+		F8  
+	5. Step Into(현재 브레이크의 다음 메소드로 이동  
+		F7  
+	6. Step Out (현재메소드의 밖으로 이동)  
+		Shift + F8  
+	7. Evaluate Expression (브레이크 상태에서 코드 사용하기)  
+		Option + F8  
+	8. Watch(브레이크 이후 코드 변경 확인하기)  
+		단축키 없음  
 
 
     
