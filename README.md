@@ -109,6 +109,38 @@
 	8. Watch(브레이크 이후 코드 변경 확인하기)  
 		단축키 없음  
 
+- git  
+	1. view - Tool Windows - Version Control (안보일시 command+shift+a후 Enable Version Control Integration - git설정하면 된다.)  		- class들이 빨간색으로 변하는데 unstaged file로 git stage에 올라오지 않은 파일이라는 의미이다  
+	2. local changes 탭에서 파일을 show diff해서 변경된부분을 바로 확인가능하고 팝업창에서 바로 코드수정도 가능하다.  
+	3. log 탭: 현재 프로젝트의 전반적인 git 상태를 볼수있음
+	4. 우클릭시 commit에 관련된 모든 기능을 사용할수 있음(  revert, tag, branch, cherry pick..)
+	5. console탭: 실제로 인텔리제이에서 git명령을 날리면 어떤 커맨드들이 실행이 됬는지 git console log를 보여준다
+
+- git popup  
+	- 파일안에서 ctrl + v 를 입력시 git popup이뜸  
+	- commit, history보기 , push, branch등 모든기능을 사용할 수 있음  
+	 
+	1. git view on  
+		Command + 9  
+	2. git option popup  
+		Ctrl +v  
+	3. git history  
+		Ctrl + v => 4  
+	4. branch  
+		Ctrl + v => 7  
+	5. Commit  
+		Command + k  
+	6. Push  
+		Command + Shift + k  
+	7. pull  
+		Command + shift + A  
+ 
+- github 연동하기  
+	Command + shift +A => share github  
+
+- git clone
+	Check out from Version Control - git 선택후 github에서 가져온 url을 입력하고 clone하면된다.
+	![git clone](https://github.com/yangseungin/intellijTip/blob/master/images/github%20clone.png)
 
     
 
