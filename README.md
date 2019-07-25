@@ -1,5 +1,7 @@
 # IntelliJ Tip 모음
 ### 단축키
+- 터미널 열기  
+	Option + F12  
 - 디렉토리, 패키지, 클래스 등 생성목록 보기  
    맥: Command + n  
    윈도우: Alt+ Insert  
@@ -142,7 +144,12 @@
 	Check out from Version Control - git 선택후 github에서 가져온 url을 입력하고 clone하면된다.
 	![git clone](https://github.com/yangseungin/intellijTip/blob/master/images/github%20clone.png)
 
-    
+- 플러그인  
+	- Preferences의 Plugins에서 install가능  
+	- 유용플러그인  
+		1. .ignore
+		2. BashSupport
+		3. Presentation Assistant
 
 
 
