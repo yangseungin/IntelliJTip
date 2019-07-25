@@ -147,9 +147,9 @@
 - 플러그인  
 	- Preferences의 Plugins에서 install가능  
 	- 유용플러그인  
-		1. .ignore
-		2. BashSupport
-		3. Presentation Assistant
+		1. .ignore: gitignore외에도 다른ignore작성에 도움
+		2. BashSupport: bash 스크립트 작성에 도움
+		3. Presentation Assistant: 맥/윈도우 단축키 보여줌
 
 
 
